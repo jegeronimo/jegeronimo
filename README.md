@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jegeronimo
+- 👋 Hi, I’m James!
 - 👀 I’m interested in SWE, Data Science, and ML/AI.
 - 🌱 I’m currently learning Computer Science and Data Science at UC Berkeley.
 - 📫 Feel free to reach out to me through email: jegeronimo@berkeley.edu
