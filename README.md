@@ -2,7 +2,8 @@
 - 👀 I’m interested in **Software Engineering**, **Data Science**, Data Engineering, **EdTech**, and Machine Learning.
 - 📖 I’m currently learning **Computer Science** 💻 and **Data Science** 📈 at **UC Berkeley**.
 - 📫 Feel free to **reach out** to me through email 📧: jegeronimo@berkeley.edu
-- 🧊 _Fun fact_: I love playing basketball 🏀, volleyball 🏐, and video games 🎮!
+- 🥋 _Hobbies_: I love playing basketball 🏀, volleyball 🏐, and video games 🎮!
+- 🏆 _Fun Fact_: I threw the first pitch ⚾ at a Giants 🌉 game in the 3rd grade!
 
 <!---
 jegeronimo/jegeronimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
