@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m James 😃!
-- 👀 I’m interested in **Software Engineering**, **Data Science**, Data Engineering, **EdTech**, and Machine Learning.
+- 👀 I’m interested in **Data Science**, **Machne Learning**, **Software Engineering**, and **Educational Technology** 🧑‍🏫.
 - 📖 I’m currently learning **Computer Science** 💻 and **Data Science** 📈 at **UC Berkeley**.
 - 📫 Feel free to **reach out** to me through email 📧: jegeronimo@berkeley.edu
 - 🥋 _Hobbies_: I love playing basketball 🏀, volleyball 🏐, and video games 🎮!
