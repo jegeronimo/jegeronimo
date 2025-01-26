@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m James 😃!
+- 👋 Hello there, I’m James 😁!
 - 👀 I’m interested in **Data Science**, **Machine Learning**, **Software Engineering**, and **Educational Technology** 🧑‍🏫.
 - 📖 I’m currently learning **Computer Science** 💻 and **Data Science** 📈 at **UC Berkeley**.
 - 📫 Feel free to **reach out** to me through email 📧: jegeronimo@berkeley.edu
